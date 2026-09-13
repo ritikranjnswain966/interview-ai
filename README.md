@@ -59,7 +59,7 @@ Puppeteer downloads and uses a Chromium browser for resume-PDF generation. On Li
 
    ```bash
    git clone https://github.com/ritikranjnswain966/Job-Preparation-Web-Application-.git
-   cd Job-Preparation-Web-Application-
+   cd interview-ai
 
    cd backend
    npm install
