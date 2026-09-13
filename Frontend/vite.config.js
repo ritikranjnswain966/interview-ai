@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()],
   server: {
     host: '0.0.0.0',
-    allowedHosts: ['interview-ai-frontend-x0e5.onrender.com'],
+    allowedHosts: ["interview-ai-frontend-x0e5.onrender.com"],
   },
 })
