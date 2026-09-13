@@ -71,7 +71,6 @@ Puppeteer downloads and uses a Chromium browser for resume-PDF generation. On Li
 2. Create `backend/.env` with the following values.
 
    ```env
-   PORT=3000
    MONGO_URI=mongodb://127.0.0.1:27017/job-preparation
    JWT_SECRET=replace-with-a-long-random-secret
    GOOGLE_GENAI_API_KEY=your-google-ai-api-key
